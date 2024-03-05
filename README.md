@@ -1,4 +1,4 @@
-# Explore-Sharing-Bikes-Dataset-Dashboard-Guide
+# Explore Sharing Bikes Dataset Dashboard Guide
 
 ## Setup environment
 ```
